@@ -79,7 +79,7 @@ h1,h4,h5,h6 {font-family: "Noto Sans", sans-serif}
 
 /*** -- Header Image -- ***/
 .jumbotron-fluid{
-    background-image: url('./img/header.jpg');
+    background-image: url('../img/header.jpg');
     background-size:cover;
     background-repeat:no-repeat;
     min-height:400px;
